@@ -15,5 +15,4 @@ time_t now = time(0);
 
 Video of the code in action:
 
-https://user-images.githubusercontent.com/53913349/224801873-18ff6017-828f-4976-be93-22d3ee6b89ec.mov
-
+https://user-images.githubusercontent.com/53913349/224802409-f67b3c7c-8829-447b-9dab-8f543938aed0.mp4
