@@ -12,3 +12,8 @@ time_t now = time(0);
     while (elapsed_time_ms < 50000) { <------- CHANGE THIS NUMBER
         elapsed_time_ms = (clock() - start_time) * 1000 / CLOCKS_PER_SEC; // Calculate elapsed time in milliseconds
 ```
+
+Video of the code in action:
+
+https://user-images.githubusercontent.com/53913349/224801873-18ff6017-828f-4976-be93-22d3ee6b89ec.mov
+
